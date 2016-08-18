@@ -26,6 +26,13 @@
 		    <artifactId>slf4j-simple</artifactId>
 		    <version>1.7.21</version>
 		</dependency>
+		
+		<dependency>
+			<groupId>teclan.utils</groupId>
+			<artifactId>teclan-utils</artifactId>
+ 			 <version>0.0.1-SNAPSHOT</version>
+  	    </dependency>
+  	   
    	  <dependency>
 			<groupId>org.javalite</groupId>
 			<artifactId>activejdbc</artifactId>
