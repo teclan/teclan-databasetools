@@ -10,6 +10,8 @@ public class MenuService {
         System.out.println("4、Sqlserver2K");
         System.out.println("5、Sqlserver2k+");
         System.out.println("5、DB2");
+        System.out.println("6、Kingbase");
+        System.out.println("========================");
     }
 
 }
