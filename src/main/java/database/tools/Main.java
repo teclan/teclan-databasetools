@@ -83,7 +83,7 @@ public class Main {
 
             case 3:
                 driver = "com.mysql.jdbc.Driver";
-                url = "jdbc:mysql://%s:%d/%s";
+                url = "jdbc:mysql://%s:%d/%s?useUnicode=true&characterEncoding=UTF-8";
                 break;
 
             case 4:
