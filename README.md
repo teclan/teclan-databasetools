@@ -34,6 +34,6 @@ des#file
 
 ```
 
-在目录下执行 java -jar database-tools-xxx-SNAPSHOT.jar 即可运行
+在目录下执行 java -jar teclan-databasetools-xxx-SNAPSHOT.jar 即可运行
 
 
